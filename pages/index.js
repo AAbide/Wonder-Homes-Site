@@ -121,8 +121,6 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className="min-h-screen bg-white text-gray-900 font-serif">
-        {/* Header and main sections omitted for brevity... */}
-
         <section id="admin" className="py-16 bg-gray-50">
           <div className="container mx-auto px-4">
             <h3 className="text-3xl font-bold text-center mb-8">Admin Panel: Booking Records</h3>
